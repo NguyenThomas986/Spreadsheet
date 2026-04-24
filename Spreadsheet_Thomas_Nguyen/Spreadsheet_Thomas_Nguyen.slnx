@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ExpressionTreeDemo/ExpressionTreeDemo.csproj" Id="b0b3db68-a923-4bd7-9bab-63789d6ce122" />
+  <Project Path="ExpressionTreeTesting/ExpressionTreeTesting.csproj" Id="538d6f54-7e17-4585-a887-1601ec9ef10a" />
+  <Project Path="SpreadsheetEngine/SpreadsheetEngine.csproj" Id="0c18ba74-fbe6-4191-a5fe-f2cf4c3c1fe1" />
+  <Project Path="Spreadsheet_Testing/Spreadsheet_Testing.csproj" Id="e44ebabe-d3d6-4e6b-977a-1d0d403c98a3" />
+  <Project Path="Spreadsheet_Thomas_Nguyen/Spreadsheet_Thomas_Nguyen.csproj" />
+</Solution>
